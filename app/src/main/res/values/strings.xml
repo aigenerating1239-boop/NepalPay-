@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NepalPay</string>
+    <string name="sandbox_banner_en">SANDBOX / NRB COMPLIANCE DEMO MODE — No Real Money Transferred</string>
+    <string name="sandbox_banner_ne">स्यान्डबक्स / NRB डेमो मोड — वास्तविक रकम कारोबार हुँदैन</string>
+    <string name="qr_scan_desc">Scan QR Code</string>
+    <string name="hero_banner_desc">NepalPay Digital Wallet Banner</string>
+    <string name="avatar_desc">User Profile Avatar</string>
+</resources>

@@ -1,0 +1,6 @@
+{
+  "name": "NepalPay",
+  "description": "Modern, secure bilingual (Nepali & English) digital wallet and payment sandbox app for Nepal with QR Pay, Bank Transfer, KYC, and Admin Dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
